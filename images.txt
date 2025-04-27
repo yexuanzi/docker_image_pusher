@@ -1,1 +1,2 @@
 portainer/portainer-ce:lts
+xhofe/alist:aio
