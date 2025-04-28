@@ -2,4 +2,4 @@ portainer/portainer-ce:lts
 xhofe/alist:latest-aio
 mlikiowa/napcat-docker:latest
 codercom/code-server:latest
-onlyoffice/documentserver:latest
+collabora/code:latest
