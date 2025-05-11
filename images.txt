@@ -3,3 +3,5 @@ xhofe/alist:latest-aio
 mlikiowa/napcat-docker:latest
 codercom/code-server:latest
 collabora/code:latest
+guiji2025/fish-speech-ziming:latest
+guiji2025/heygem.ai:latest
