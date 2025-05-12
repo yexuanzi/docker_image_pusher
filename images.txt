@@ -1,1 +1,1 @@
-guiji2025/fun-asr
+portainer/portainer-ce:lts
