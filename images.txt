@@ -1,1 +1,1 @@
-openlistteam/openlist:aio
+openlistteam/openlist:latest-aio
