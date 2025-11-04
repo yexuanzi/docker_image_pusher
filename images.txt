@@ -1,1 +1,3 @@
 openlistteam/openlist:latest-aio
+soulter/astrbot:latest
+mlikiowa/napcat-docker:latest
